@@ -20,10 +20,6 @@ There are few tutorials available on:
 If you find a bug or would like to request a feature, please `report it with
 the issue tracker <https://github.com/ritvik03/3D-point-cloud-reconstruction-from-stereovision/issues>`_. 
 
-StereoVision is released under the GNU General Public License, so feel free to
-use it any way you like. It would be nice to let me know if you do anything
-cool with it though.
-
 Author: `Ritvik Pandey <ritvik.pandey03@gmail.com>`_
 
 .. _Building a stereo rig: https://erget.wordpress.com/2014/02/01/calibrating-a-stereo-camera-with-opencv/
