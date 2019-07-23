@@ -10,11 +10,7 @@ variable does or what values would make sense for it and no explanation is
 provided in the StereoVision documentation, refer to OpenCV's documentation in
 order to better understand how they work.
 
-It's available on PyPI, so you can install it like this::
-
-    pip install StereoVision
-
-Tutorials are available on the Stackable blog:
+There are few tutorials available on:
 
 - `Building a stereo rig`_
 - `Stereo calibration`_
@@ -22,15 +18,13 @@ Tutorials are available on the Stackable blog:
 - `Producing point clouds`_
 
 If you find a bug or would like to request a feature, please `report it with
-the issue tracker <https://github.com/erget/StereoVision/issues>`_. If you'd
-like to contribute to StereoVision, feel free to `fork it on GitHub
-<https://github.com/erget/StereoVision>`_.
+the issue tracker <https://github.com/ritvik03/3D-point-cloud-reconstruction-from-stereovision/issues>`_. 
 
 StereoVision is released under the GNU General Public License, so feel free to
 use it any way you like. It would be nice to let me know if you do anything
 cool with it though.
 
-Author: `Daniel Lee <Lee.Daniel.1986@gmail.com>`_
+Author: `Ritvik Pandey <ritvik.pandey03@gmail.com>`_
 
 .. _Building a stereo rig: https://erget.wordpress.com/2014/02/01/calibrating-a-stereo-camera-with-opencv/
 .. _Stereo calibration: https://erget.wordpress.com/2014/02/28/calibrating-a-stereo-pair-with-python/
